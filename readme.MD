@@ -1,3 +1,9 @@
-use this command "pip install selenium" and download needed library for our script
-and then download chromedriver same version as your chrome version then, move the "chromedriver.exe" to "main.py" folder
-after that you have to edit the main.py with your credentials, such as skyroom username or password , skyroom url link
+# Auto SkyRoom Connector
+Auto SkyRoom connector, simply it will automate your logging in process
+# Requiremnets
+pip install selenium
+Python 3.x
+chromedriver.exe same version as your chrome (in same path as script file)
+edit the main.py with your credentials, such as skyroom username or password , skyroom url link
+# Disclaimer
+he author is not responsible for any misuse and misbehaviour of the contained DATA.
