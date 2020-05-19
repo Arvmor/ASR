@@ -6,4 +6,4 @@ Python 3.x
 chromedriver.exe same version as your chrome (in same path as script file)
 edit the main.py with your credentials, such as skyroom username or password , skyroom url link
 # Disclaimer
-he author is not responsible for any misuse and misbehaviour of the contained DATA.
+the author is not responsible for any misuse and misbehaviour of the contained DATA.
